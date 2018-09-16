@@ -100,9 +100,8 @@ pre code.hljs {
 *	Header
 */
 .navigation {
+	box-shadow: 0 2px $highlight-color;
 	padding: 0 1em;
-	position: absolute;
-	width: 100%;
 	margin: 0;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
@@ -121,8 +120,7 @@ pre code.hljs {
   // Nav menu
   .navigation-wrapper {
   	@include outer-container;
-		@include clearfix;
-		max-width: none;
+    @include clearfix;
     position: relative;
   }
   .logo {
@@ -179,14 +177,12 @@ pre code.hljs {
   }
   li.nav-link {
   	a {
-			color: white;
 	    display: inline-block;
 	    @include media ($tablet) {
 	      padding-right: 1.5em;
 	    }
 	  }
 	  &:last-child a {
-			color: white;
 	  	@include media ($tablet) {
     		padding-right: 1em;
     	}
