@@ -3,7 +3,7 @@ layout: post
 title:  "Starting a blog"
 date:   2018-09-15 22:15:00
 author: Mitchell Sotto
-categories: personal
+categories: other
 tags: mitchell
 ---
 ### Who am I?
