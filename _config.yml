@@ -14,7 +14,7 @@ subtitle: Check out my path to coding
 email: sottochoro@gmail.com
 name: Mitchell Sotto
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  An intro to Mitchell Sotto and the projects he works on.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+# disqus_shortname: sottom
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -72,29 +72,29 @@ descriptions:
 social:
   # - name: Twitter
   #   icon: twitter
-  #   username: TheBenCentra
+  #   username: Mitchell Sotto
   #   url: https://twitter.com/TheBenCentra
   #   desc: Follow me on Twitter
   #   share: true
 
   # - name: Facebook
   #   icon: facebook
-  #   username: thebencentra
+  #   username: Mitchell Sotto
   #   url:
   #   desc: Friend me on Facebook
   #   share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: sottom
+    url: https://github.com/sottom
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Mitchell Sotto
+    url: https://www.linkedin.com/in/mitchell-sotto/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -185,14 +185,14 @@ social:
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
-protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
+# protocols:
+#     fb_image: "/assets/logo.png"
+#     fb_image_width: 612
+#     fb_image_height: 605
+#     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+#     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+#     os_repo: "https://github.com/bencentra/centrarium.com"
+#     os_rcs_type: "git"
+#     os_src: "git@github.com:bencentra/centrarium.com.git"
