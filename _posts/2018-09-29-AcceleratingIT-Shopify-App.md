@@ -1,22 +1,31 @@
 ---
 layout: post
 title:  "AcceleratingIT Shopify App"
-date:   2018-09-15 22:15:00
+date:   2018-09-29 22:15:00
 author: Mitchell Sotto
-categories: ruby-on-rails, react
-tags: microservice
+categories: ruby-on-rails react
 ---
-### Who am I
-My name is Mitchell Sotto. I'm a masters student in the Marriott School of Business at Brigham Young University studying Information Systems Management. If this were a resume, that's about all I could fit on the page, which is why I'm starting this blog. I need a way to get my real thoughts out about the experiences that I've been having at work, school, and anywhere else so that people actually understand what I do, and like to do with my time.
+### Problem
+A local e-commerce startup with a store on Shopify is struggling to predict how much inventory they will need each month. 
 
-Here's a resume I made recently for recruiting:
+### Solution
+They approached my friend and we made a team of three people to create a shopify integration app that will use Holt Winters Triple Exponential Smoothing to predict their needed inventory based on previous sell data.
 
----
-<object data="/assets/Resume_9_5_18.pdf" type="application/pdf" width="100%" height="500px">
-   <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/Resume_9_5_18.pdf">Download PDF</a>.</p>
-</object>
----
+### My Role
+I am currently the sole developer of both the frontend and the backend. 
 
-Doesn't look too shaby right? Well, most resumes in the Marriott School of Business look exactly the same, so it can be hard to stand out, even if you have great experience under your belt. This blog is, in essence, a way for me to show some of the more important things that recruiters are looking for -- personality, thought process, passion, etc.. Interesting or not, I think it will help people get to know me a little better.
+### The System
+### Architecture
+I decided to use a microservice architecture where the frontend and backend are completely seperated and only communicate asynchronously through AJAX calls. This is useful because we can hook up our React frontend to any backend that we need (for instance, if we find that a Python/Django Backend better suits our forecasting needs).
+#### Backend
+The backend is a Ruby on Rails API connected to a PostgreSQL database hosted on Heroku.
+#### Frontend
+The frontend is a React app served by a Node server hosted on Heroku.
+We are using _________ for our graphs.
 
-So there's my intro. Stay tuned for more posts to come relating to some of the things on my resume...
+### Problems
+The biggest problem we faced so far has been integrating our app into the admin dashboard on Shopify. After trying several outdated SDKs (Sinatra, Rails, Node) over a few weeks, I decided to build my own Rails backend from scratch, and our app is finally integrated in the admin dashboard!
+
+
+### Next Steps
+We are currently figuring out what data we need to query from Shopify so that we can accurately do our forecasting. We are not sure if we want the frontend or the backend to do the bulk of the processing, but we are leaning towards the backend. After we do the processing, we just need to hook the JSON data up to our graph.
