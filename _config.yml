@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Mitchell's Blog
-subtitle: Check out my path to coding
+title: Mitchell's Portfolio
+subtitle: Some of the fun projects I've been able to work on
 email: sottochoro@gmail.com
 name: Mitchell Sotto
 description: >
-  An intro to Mitchell Sotto and the projects he works on.
+  Take a look at my projects and see what you like! If you have any questions, feel free to reach out.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
