@@ -16,7 +16,7 @@ I decided to use a microservice architecture where the frontend and backend are 
 
 The backend is currently a Ruby on Rails API connected to a PostgreSQL database hosted on Heroku, and the frontend is a React app served by a Node server hosted on Heroku.
 
-We are using _________ for our graphs.
+We are using Plotly for our graphs.
 
 ### Problems
 The biggest problem we faced so far has been integrating our app into the admin dashboard on Shopify. After trying several outdated SDKs (Sinatra, Rails, Node) over a few weeks, I decided to build my own Rails backend from scratch, and our app is finally integrated in the admin dashboard!
