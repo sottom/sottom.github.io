@@ -3,7 +3,7 @@ layout: post
 title:  "Project Management\nI met the creator of Agile!"
 date:   2018-09-29 22:15:00
 author: Mitchell Sotto
-categories: agile-methodology gantt
+categories: agile-methodology gantt byu-class
 ---
 In Winter Semester of 2018, I took a Project Management class from a nice older gentleman named Ernie Nielson. We learned a lot of things, but the thing I remember most is the Agile Methodology.
 
