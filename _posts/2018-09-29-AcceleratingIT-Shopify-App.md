@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Starting a blog"
+title:  "AcceleratingIT Shopify App"
 date:   2018-09-15 22:15:00
 author: Mitchell Sotto
-categories: other
-tags: mitchell
+categories: ruby-on-rails, react
+tags: microservice
 ---
 ### Who am I
 My name is Mitchell Sotto. I'm a masters student in the Marriott School of Business at Brigham Young University studying Information Systems Management. If this were a resume, that's about all I could fit on the page, which is why I'm starting this blog. I need a way to get my real thoughts out about the experiences that I've been having at work, school, and anywhere else so that people actually understand what I do, and like to do with my time.
