@@ -27,7 +27,7 @@ For the last few weeks of our internship, we outfitted our chrome extension to i
 
 The internship started out looking pretty dismal, but it transformed into one of my favorite development experiences in my career.
 
-## Appendix
+### Appendix
 
 Below is the README for the extension that served as our help document for employees at UTI.
 
