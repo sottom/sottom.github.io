@@ -9,4 +9,4 @@ I spend a ton of time every week checking my class pages to see what homework is
 
 I used python and Selenium Chrome-Driver to automate my browser. Here's a little demo (click to see the youtube video).
 
-[![LearningSuite Scraper](/assets/python-scraper.PNG)](https://youtu.be/-j-WJb3Vaw4 "Scraping LearningSuite with Selenium")
+[![LearningSuite Scraper](/assets/python-scraper.PNG)](https://youtu.be/-j-WJb3Vaw4 "Scraping LearningSuite with Selenium"){:target="_blank"}
