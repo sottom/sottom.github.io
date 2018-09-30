@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chrome Extension Developer Intern - From Menial to Meaningful"
+title:  "Web Developer Intern - From Menial to Meaningful"
 date:   2018-09-29 16:00:00
 author: Mitchell Sotto
 categories: Web-Scraping JavaScript

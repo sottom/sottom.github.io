@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Django-Mako-Plus?"
+title:  "E-Commerce App with Django-Mako-Plus"
 date:   2018-09-29 11:15:00
 author: Mitchell Sotto
 categories: Web-Application Python

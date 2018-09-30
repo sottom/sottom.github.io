@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Accounting Information Systems\nNuSkin Case Study Report"
+title:  "Accounting Information Systems - NuSkin Case Study Report"
 date:   2018-09-29 08:15:00
 author: Mitchell Sotto
 categories: Accounting-Information-Systems

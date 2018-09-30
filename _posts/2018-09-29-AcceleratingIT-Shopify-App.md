@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AcceleratingIT - Start-ups Rock"
+title:  "A New Startup - Rails/React Shopify App"
 date:   2018-09-29 17:15:00
 author: Mitchell Sotto
 categories: Web-Application Ruby-on-Rails JavaScript

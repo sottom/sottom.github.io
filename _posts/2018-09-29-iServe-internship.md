@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scraping with Lua"
+title:  "iServe - Scraping and Selling in Rails & React"
 date:   2018-09-29 18:00:00
 author: Mitchell Sotto
 categories: JavaScript Ruby-on-Rails Web-Scraping

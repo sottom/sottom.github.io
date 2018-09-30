@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No more planning homework - just scrape it"
+title:  "Scraping my Assignemnts with Python"
 date:   2018-09-29 12:15:00
 author: Mitchell Sotto
 categories: Python Web-Scraping
