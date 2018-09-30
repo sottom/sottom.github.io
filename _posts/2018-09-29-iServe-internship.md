@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scraping with Lua"
-date:   2018-09-29 01:00:00
+date:   2018-09-29 18:00:00
 author: Mitchell Sotto
 categories: JavaScript Ruby-on-Rails Web-Scraping
 ---

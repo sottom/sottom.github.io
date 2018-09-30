@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Django-Mako-Plus?"
-date:   2018-09-29 22:15:00
+date:   2018-09-29 11:15:00
 author: Mitchell Sotto
 categories: Web-Application Python
 ---

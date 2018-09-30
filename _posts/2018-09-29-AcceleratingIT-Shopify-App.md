@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AcceleratingIT - Start-ups Rock"
-date:   2018-09-29 22:15:00
+date:   2018-09-29 17:15:00
 author: Mitchell Sotto
 categories: Web-Application Ruby-on-Rails JavaScript
 ---

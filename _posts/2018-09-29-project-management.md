@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Management\nI met the creator of Agile!"
-date:   2018-09-29 22:15:00
+date:   2018-09-29 09:15:00
 author: Mitchell Sotto
 categories: Agile-Methodology
 ---
