@@ -5,7 +5,7 @@ date:   2018-09-29 22:15:00
 author: Mitchell Sotto
 categories: chrome-extensions
 ---
-I was hired as a "web developer" intern at Universal Technical Institute (UTI), only to find out that "web developer" did not mean what I thought it meant. My coworker and I were tasked to help the QA team compare an old and a new version of the same course to make sure the text was the same...for the whole summer...needless to say I was slightly disappointed; however, the second day in, my coworker and I mentioned to our boss that we could probably automate most of the work for the project we were put on, and that's when the fun began. 
+I was hired as a "web developer" intern at Universal Technical Institute (UTI), only to find out that "web developer" did not mean what I thought it meant. My coworker and I were tasked to help the QA team compare old Flash versions with new HTML5 versions of online automotive courses to make sure the text was the same...for the whole summer...needless to say I was slightly disappointed. After two days of manually comparing text, my coworker and I mentioned to our boss that we could probably automate most of the work we were doing, and that's when the fun began. 
 
 #### The Bookmarklet
 
@@ -25,7 +25,11 @@ While comparing the text from the old Flash courses to the new HTML5 courses, my
 
 For the last few weeks of our internship, we outfitted our chrome extension to intercept the XML sheets that were populating the bulk of the text in the courses and to insert the intercepted text into an online editor we built with the CodeMirror library. This allowed the creators of the new HTML5 courses to copy the text they needed instead of hand typing it.
 
-Below is the README for our extension.
+The internship started out looking pretty dismal, but it transformed into one of my favorite development experiences in my career.
+
+## Appendix
+
+Below is the README for the extension that served as our help document for employees at UTI.
 
 
 
