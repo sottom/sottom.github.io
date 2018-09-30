@@ -28,6 +28,7 @@ For the last few weeks of our internship, we outfitted our chrome extension to i
 Below is the README for our extension.
 
 
+
 Quality Assurance Helper - Chrome Extension README
 ===========================================
 
