@@ -9,7 +9,7 @@ For my Enterprise Application Develompment class, we used a Python MVC library c
 
 DMP uses migrations and Models to work with the database through it's ORM (Object Relational Mapping). We connected to a PostgreSQL database and used the django-polymorphic library to allow 3 different types of products tables (bulk, individual, resale) to inherit from a main "Products" table with general information for all of it's child tables.
 
-I haven't kept up with the upgrades to Django-Mako-Plus for the past year, so the code needs some fixing to bring up the site, but here is my [github repo](https://github.com/sottom/FOMO-IS-413 "Family Oriented Music Organization Website Repo"){:target="_blank"} with the code if you want to check it out.
+I haven't kept up with the upgrades to Django-Mako-Plus for the past year, so the code needs some fixing to bring up the site. The code repo on Github is private so that future students of the class cannot copy it, but feel free to message me if you want to take a look at the code (sottochoro@gmail.com).
 
 
 [![Django Image](/assets/django.png)](https://hackernoon.com/top-10-python-django-web-application-development-companies-eda8461c764f "Python Django"){:target="_blank"}
