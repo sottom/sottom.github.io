@@ -3,7 +3,7 @@ layout: post
 title:  "Accounting Information Systems\nNuSkin Case Study Report"
 date:   2018-09-29 22:15:00
 author: Mitchell Sotto
-categories: accounting-information-systems
+categories: Accounting-Information-Systems
 ---
 
 Here is a case study report about the processes and controls at NuSkin that my team and I created in my Accounting Information Systems class (Fall 2017).

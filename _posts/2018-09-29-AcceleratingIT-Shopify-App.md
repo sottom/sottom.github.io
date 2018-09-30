@@ -3,7 +3,7 @@ layout: post
 title:  "AcceleratingIT - Start-ups Rock"
 date:   2018-09-29 22:15:00
 author: Mitchell Sotto
-categories: "Ruby on Rails" Javascript-Frameworks
+categories: Web-Application Ruby-on-Rails JavaScript
 ---
 When a local e-commerce startup approached a friend of mine about their issues predicting monthly inventory for their Shopify store, he responded by creating a team of three people to create an app to help them solve their problem. With my friend as the manager, another teammate as a data analyst, and myself as the full-stack developer, we have formed our own startup called AcceleratingIT. We are currently creating an integrated Shopify app that will use Holt Winters Triple Exponential Smoothing to predict the startup's needed inventory based on previous sales data.
 

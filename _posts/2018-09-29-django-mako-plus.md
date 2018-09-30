@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Django-Mako-What?"
+title:  "Django-Mako-Plus?"
 date:   2018-09-29 22:15:00
 author: Mitchell Sotto
-categories: Python
+categories: Web-Application Python
 ---
 For my Enterprise Application Develompment class (Fall 2017), we used a Python MVC library called Django-Mako-Plus (DMP) to build a full scale e-commerce site with item listings, a shopping cart, and the ability to pay using Stripe. 
 

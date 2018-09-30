@@ -3,7 +3,7 @@ layout: post
 title:  "Chrome Extension Developer Intern - From Menial to Meaningful"
 date:   2018-09-29 22:15:00
 author: Mitchell Sotto
-categories: chrome-extensions
+categories: Web-Scraping JavaScript
 ---
 I was hired as a "web developer" intern at Universal Technical Institute (UTI), only to find out that "web developer" did not mean what I thought it meant. My coworker and I were tasked to help the QA team compare old Flash versions with new HTML5 versions of online automotive courses to make sure the text was the same...for the whole summer...needless to say I was slightly disappointed. After two days of manually comparing text, my coworker and I mentioned to our boss that we could probably automate most of the work we were doing, and that's when the fun began. 
 
